@@ -1,0 +1,200 @@
+<!--
+Unicode requested: 40 (decimal: 40 hex: 0x28)
+Glyph index for unicode: 11
+Load Glyph into Face's glyph slot. error code: 0
+Glyph Name: parenleft
+Glyph Width: 246 Height: 1032 Hor. Advance: 430 Vert. Advance: 2048
+Num points: 13
+Num contours: 1
+Contour endpoint index values: 12
+-->
+
+<svg width='2217px' height='1221px' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+
+ <!-- draw border -->
+ <rect fill='none' stroke='black' width='2216' height='1220'/>
+
+ <!-- make sure glyph is visible within svg window -->
+ <g fill-rule='nonzero'  transform='translate(100 1370)'>
+
+  <!-- draw axes --> 
+ <path stroke='blue' stroke-dasharray='5,5' d=' M-2217,0 L2217,0 M0,-1221 L0,1221 '/>
+
+  <!-- draw bearing + advance box --> 
+ <path stroke='blue' fill='none' stroke-dasharray='10,16' d=' M0,-1540 M0,508 L430,508 L430,-1540 L0,-1540 '/>
+
+  <!-- draw points as circles -->
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='143' cy='-534' r='2'/>
+  <!--0--><circle fill='none' stroke='black' cx='92' cy='-400' r='10'/>
+  <!--1--><circle fill='none' stroke='black' cx='194' cy='-668' r='5'/>
+  <!--2--><circle fill='blue' stroke='black' cx='289' cy='-762' r='5'/>
+  <!--3--><circle fill='blue' stroke='black' cx='338' cy='-738' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='201' cy='-521' r='2'/>
+  <!--4--><circle fill='none' stroke='black' cx='249' cy='-649' r='5'/>
+  <!--5--><circle fill='none' stroke='black' cx='154' cy='-393' r='5'/>
+  <!--6--><circle fill='blue' stroke='black' cx='154' cy='-246' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='202' cy='29' r='2'/>
+  <!--7--><circle fill='none' stroke='black' cx='154' cy='-98' r='5'/>
+  <!--8--><circle fill='none' stroke='black' cx='250' cy='157' r='5'/>
+  <!--9--><circle fill='blue' stroke='black' cx='338' cy='246' r='5'/>
+  <!--10--><circle fill='blue' stroke='black' cx='289' cy='270' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='143' cy='41' r='2'/>
+  <!--11--><circle fill='none' stroke='black' cx='194' cy='175' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='92' cy='-246' r='2'/>
+  <!--12--><circle fill='none' stroke='black' cx='92' cy='-92' r='5'/>
+
+  <!-- draw straight lines between points -->
+  <path fill='none' stroke='green' d='
+   M 92,-400
+
+  '/>
+  <path fill='none' stroke='green' d=' M 92,-400 L 194,-668
+  '/>
+  <path fill='none' stroke='green' d=' M 194,-668 L 289,-762
+  '/>
+  <path fill='none' stroke='green' d=' M 289,-762 L 338,-738
+  '/>
+  <path fill='none' stroke='green' d=' M 338,-738 L 249,-649
+  '/>
+  <path fill='none' stroke='green' d=' M 249,-649 L 154,-393
+  '/>
+  <path fill='none' stroke='green' d=' M 154,-393 L 154,-246
+  '/>
+  <path fill='none' stroke='green' d=' M 154,-246 L 154,-98
+  '/>
+  <path fill='none' stroke='green' d=' M 154,-98 L 250,157
+  '/>
+  <path fill='none' stroke='green' d=' M 250,157 L 338,246
+  '/>
+  <path fill='none' stroke='green' d=' M 338,246 L 289,270
+  '/>
+  <path fill='none' stroke='green' d=' M 289,270 L 194,175
+  '/>
+  <path fill='none' stroke='green' d=' M 194,175 L 92,-92
+  '/><!-- do outline -->
+
+<!--
+new contour starting. startpt index, endpt index:0,12
+number of points in this contour: 13
+moving to first pt 92,-400
+listing pts: [this pt index][isctrl] <next pt index><isctrl> [x,y] <nx,ny>
+ [0][1] <1><1> <<2>><<0>> [92,-400] <194,-668> <<289,-762>>
+ two adjacent ctl pts. adding point halfway between 0 and 1: reseting x and y to  [143,-534]
+first pt in contour was ctrl pt. moving to non-ctrl pt
+ bezier to 289,-762 ctlx, ctly: 194,-668
+ [1][1] <2><0> <<3>><<0>> [194,-668] <289,-762> <<338,-738>>
+ this is ctrl pt. skipping to 289,-762
+ [2][0] <3><0> <<4>><<1>> [289,-762] <338,-738> <<249,-649>>
+ line to 338,-738
+ [3][0] <4><1> <<5>><<1>> [338,-738] <249,-649> <<154,-393>>
+ two ctl pts coming. adding point halfway between 4 and 5: reseting nnx and nny to halfway pt bezier to 201,-521 ctlx, ctly: 249,-649
+ [4][1] <5><1> <<6>><<0>> [249,-649] <154,-393> <<154,-246>>
+ two adjacent ctl pts. adding point halfway between 4 and 5: reseting x and y to  [201,-521]
+ bezier to 154,-246 ctlx, ctly: 154,-393
+ [5][1] <6><0> <<7>><<1>> [154,-393] <154,-246> <<154,-98>>
+ this is ctrl pt. skipping to 154,-246
+ [6][0] <7><1> <<8>><<1>> [154,-246] <154,-98> <<250,157>>
+ two ctl pts coming. adding point halfway between 7 and 8: reseting nnx and nny to halfway pt bezier to 202,29 ctlx, ctly: 154,-98
+ [7][1] <8><1> <<9>><<0>> [154,-98] <250,157> <<338,246>>
+ two adjacent ctl pts. adding point halfway between 7 and 8: reseting x and y to  [202,29]
+ bezier to 338,246 ctlx, ctly: 250,157
+ [8][1] <9><0> <<10>><<0>> [250,157] <338,246> <<289,270>>
+ this is ctrl pt. skipping to 338,246
+ [9][0] <10><0> <<11>><<1>> [338,246] <289,270> <<194,175>>
+ line to 289,270
+ [10][0] <11><1> <<12>><<1>> [289,270] <194,175> <<92,-92>>
+ two ctl pts coming. adding point halfway between 11 and 12: reseting nnx and nny to halfway pt bezier to 143,41 ctlx, ctly: 194,175
+ [11][1] <12><1> <<0>><<1>> [194,175] <92,-92> <<92,-400>>
+ two adjacent ctl pts. adding point halfway between 11 and 12: reseting x and y to  [143,41]
+ two ctl pts coming. adding point halfway between 12 and 0: reseting nnx and nny to halfway pt bezier to 92,-246 ctlx, ctly: 92,-92
+ [12][1] <0><1> <<1>><<1>> [92,-92] <92,-400> <<194,-668>>
+ two adjacent ctl pts. adding point halfway between 12 and 0: reseting x and y to  [92,-246]
+ two ctl pts coming. adding point halfway between 0 and 1: reseting nnx and nny to halfway pt bezier to 143,-534 ctlx, ctly: 92,-400
+ 
+-->
+
+
+  <!-- draw actual outline using lines and Bezier curves-->
+  <path fill='black' stroke='black' fill-opacity='0.45'  stroke-width='2'  d='
+ M 92,-400
+ M 143,-534
+ Q 194,-668 289,-762
+ L 338,-738
+ Q 249,-649 201,-521
+ Q 154,-393 154,-246
+ Q 154,-98 202,29
+ Q 250,157 338,246
+ L 289,270
+ Q 194,175 143,41
+ Q 92,-92 92,-246
+ Q 92,-400 143,-534
+ Z
+
+  '/>
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='97' y='-405' stroke='none' fill='darkgreen'>
+  92,-400  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='199' y='-673' stroke='none' fill='darkgreen'>
+  194,-668  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='294' y='-767' stroke='none' fill='darkgreen'>
+  289,-762  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='343' y='-743' stroke='none' fill='darkgreen'>
+  338,-738  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='254' y='-654' stroke='none' fill='darkgreen'>
+  249,-649  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='159' y='-398' stroke='none' fill='darkgreen'>
+  154,-393  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='159' y='-251' stroke='none' fill='darkgreen'>
+  154,-246  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='159' y='-103' stroke='none' fill='darkgreen'>
+  154,-98  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='255' y='152' stroke='none' fill='darkgreen'>
+  250,157  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='343' y='241' stroke='none' fill='darkgreen'>
+  338,246  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='294' y='265' stroke='none' fill='darkgreen'>
+  289,270  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='199' y='170' stroke='none' fill='darkgreen'>
+  194,175  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='97' y='-97' stroke='none' fill='darkgreen'>
+  92,-92  </text>
+ </g>
+
+ </g>
+</svg>

@@ -1,0 +1,1178 @@
+<!--
+Unicode requested: 2960 (decimal: 2960 hex: 0xb90)
+Glyph index for unicode: 66
+Load Glyph into Face's glyph slot. error code: 0
+Glyph Name: aitaml
+Glyph Width: 731 Height: 787 Hor. Advance: 822 Vert. Advance: 2048
+Num points: 99
+Num contours: 2
+Contour endpoint index values: 86 98
+-->
+
+<svg width='2217px' height='1221px' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+
+ <!-- draw border -->
+ <rect fill='none' stroke='black' width='2216' height='1220'/>
+
+ <!-- make sure glyph is visible within svg window -->
+ <g fill-rule='nonzero'  transform='translate(100 1234)'>
+
+  <!-- draw axes --> 
+ <path stroke='blue' stroke-dasharray='5,5' d=' M-2217,0 L2217,0 M0,-1221 L0,1221 '/>
+
+  <!-- draw bearing + advance box --> 
+ <path stroke='blue' fill='none' stroke-dasharray='10,16' d=' M0,-1417 M0,631 L822,631 L822,-1417 L0,-1417 '/>
+
+  <!-- draw points as circles -->
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='95' cy='-65' r='2'/>
+  <!--0--><circle fill='none' stroke='black' cx='41' cy='-7' r='10'/>
+  <!--1--><circle fill='none' stroke='black' cx='149' cy='-123' r='5'/>
+  <!--2--><circle fill='blue' stroke='black' cx='225' cy='-123' r='5'/>
+  <!--3--><circle fill='blue' stroke='black' cx='532' cy='-123' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='662' cy='-169' r='2'/>
+  <!--4--><circle fill='none' stroke='black' cx='608' cy='-123' r='5'/>
+  <!--5--><circle fill='none' stroke='black' cx='717' cy='-216' r='5'/>
+  <!--6--><circle fill='blue' stroke='black' cx='717' cy='-283' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='680' cy='-404' r='2'/>
+  <!--7--><circle fill='none' stroke='black' cx='717' cy='-354' r='5'/>
+  <!--8--><circle fill='none' stroke='black' cx='644' cy='-455' r='5'/>
+  <!--9--><circle fill='blue' stroke='black' cx='594' cy='-455' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='498' cy='-418' r='2'/>
+  <!--10--><circle fill='none' stroke='black' cx='537' cy='-455' r='5'/>
+  <!--11--><circle fill='none' stroke='black' cx='459' cy='-382' r='5'/>
+  <!--12--><circle fill='blue' stroke='black' cx='459' cy='-332' r='5'/>
+  <!--13--><circle fill='blue' stroke='black' cx='459' cy='-172' r='5'/>
+  <!--14--><circle fill='blue' stroke='black' cx='397' cy='-172' r='5'/>
+  <!--15--><circle fill='blue' stroke='black' cx='397' cy='-332' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='354' cy='-418' r='2'/>
+  <!--16--><circle fill='none' stroke='black' cx='397' cy='-382' r='5'/>
+  <!--17--><circle fill='none' stroke='black' cx='311' cy='-455' r='5'/>
+  <!--18--><circle fill='blue' stroke='black' cx='250' cy='-455' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='165' cy='-431' r='2'/>
+  <!--19--><circle fill='none' stroke='black' cx='203' cy='-455' r='5'/>
+  <!--20--><circle fill='none' stroke='black' cx='128' cy='-408' r='5'/>
+  <!--21--><circle fill='blue' stroke='black' cx='114' cy='-369' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='154' cy='-392' r='2'/>
+  <!--22--><circle fill='none' stroke='black' cx='131' cy='-384' r='5'/>
+  <!--23--><circle fill='none' stroke='black' cx='177' cy='-400' r='5'/>
+  <!--24--><circle fill='blue' stroke='black' cx='200' cy='-400' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='278' cy='-369' r='2'/>
+  <!--25--><circle fill='none' stroke='black' cx='245' cy='-400' r='5'/>
+  <!--26--><circle fill='none' stroke='black' cx='311' cy='-338' r='5'/>
+  <!--27--><circle fill='blue' stroke='black' cx='311' cy='-295' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='274' cy='-208' r='2'/>
+  <!--28--><circle fill='none' stroke='black' cx='311' cy='-245' r='5'/>
+  <!--29--><circle fill='none' stroke='black' cx='238' cy='-172' r='5'/>
+  <!--30--><circle fill='blue' stroke='black' cx='188' cy='-172' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='92' cy='-211' r='2'/>
+  <!--31--><circle fill='none' stroke='black' cx='131' cy='-172' r='5'/>
+  <!--32--><circle fill='none' stroke='black' cx='53' cy='-251' r='5'/>
+  <!--33--><circle fill='blue' stroke='black' cx='53' cy='-307' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='110' cy='-446' r='2'/>
+  <!--34--><circle fill='none' stroke='black' cx='53' cy='-388' r='5'/>
+  <!--35--><circle fill='none' stroke='black' cx='168' cy='-504' r='5'/>
+  <!--36--><circle fill='blue' stroke='black' cx='250' cy='-504' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='355' cy='-479' r='2'/>
+  <!--37--><circle fill='none' stroke='black' cx='308' cy='-504' r='5'/>
+  <!--38--><circle fill='none' stroke='black' cx='403' cy='-455' r='5'/>
+  <!--39--><circle fill='blue' stroke='black' cx='428' cy='-412' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='497' cy='-479' r='2'/>
+  <!--40--><circle fill='none' stroke='black' cx='453' cy='-455' r='5'/>
+  <!--41--><circle fill='none' stroke='black' cx='541' cy='-504' r='5'/>
+  <!--42--><circle fill='blue' stroke='black' cx='594' cy='-504' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='720' cy='-439' r='2'/>
+  <!--43--><circle fill='none' stroke='black' cx='668' cy='-504' r='5'/>
+  <!--44--><circle fill='none' stroke='black' cx='772' cy='-375' r='5'/>
+  <!--45--><circle fill='blue' stroke='black' cx='772' cy='-283' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='702' cy='-135' r='2'/>
+  <!--46--><circle fill='none' stroke='black' cx='772' cy='-197' r='5'/>
+  <!--47--><circle fill='none' stroke='black' cx='632' cy='-74' r='5'/>
+  <!--48--><circle fill='blue' stroke='black' cx='532' cy='-74' r='5'/>
+  <!--49--><circle fill='blue' stroke='black' cx='225' cy='-74' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='138' cy='-31' r='2'/>
+  <!--50--><circle fill='none' stroke='black' cx='175' cy='-74' r='5'/>
+  <!--51--><circle fill='none' stroke='black' cx='102' cy='12' r='5'/>
+  <!--52--><circle fill='blue' stroke='black' cx='102' cy='74' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='141' cy='187' r='2'/>
+  <!--53--><circle fill='none' stroke='black' cx='102' cy='140' r='5'/>
+  <!--54--><circle fill='none' stroke='black' cx='181' cy='234' r='5'/>
+  <!--55--><circle fill='blue' stroke='black' cx='237' cy='234' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='350' cy='187' r='2'/>
+  <!--56--><circle fill='none' stroke='black' cx='303' cy='234' r='5'/>
+  <!--57--><circle fill='none' stroke='black' cx='397' cy='140' r='5'/>
+  <!--58--><circle fill='blue' stroke='black' cx='397' cy='74' r='5'/>
+  <!--59--><circle fill='blue' stroke='black' cx='397' cy='-12' r='5'/>
+  <!--60--><circle fill='blue' stroke='black' cx='459' cy='-12' r='5'/>
+  <!--61--><circle fill='blue' stroke='black' cx='459' cy='74' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='498' cy='187' r='2'/>
+  <!--62--><circle fill='none' stroke='black' cx='459' cy='140' r='5'/>
+  <!--63--><circle fill='none' stroke='black' cx='537' cy='234' r='5'/>
+  <!--64--><circle fill='blue' stroke='black' cx='594' cy='234' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='680' cy='201' r='2'/>
+  <!--65--><circle fill='none' stroke='black' cx='644' cy='234' r='5'/>
+  <!--66--><circle fill='none' stroke='black' cx='717' cy='168' r='5'/>
+  <!--67--><circle fill='blue' stroke='black' cx='717' cy='123' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='697' cy='57' r='2'/>
+  <!--68--><circle fill='none' stroke='black' cx='717' cy='89' r='5'/>
+  <!--69--><circle fill='none' stroke='black' cx='677' cy='26' r='5'/>
+  <!--70--><circle fill='blue' stroke='black' cx='643' cy='6' r='5'/>
+  <!--71--><circle fill='blue' stroke='black' cx='668' cy='-43' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='743' cy='19' r='2'/>
+  <!--72--><circle fill='none' stroke='black' cx='715' cy='-26' r='5'/>
+  <!--73--><circle fill='none' stroke='black' cx='772' cy='65' r='5'/>
+  <!--74--><circle fill='blue' stroke='black' cx='772' cy='123' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='723' cy='236' r='2'/>
+  <!--75--><circle fill='none' stroke='black' cx='772' cy='189' r='5'/>
+  <!--76--><circle fill='none' stroke='black' cx='675' cy='283' r='5'/>
+  <!--77--><circle fill='blue' stroke='black' cx='606' cy='283' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='494' cy='259' r='2'/>
+  <!--78--><circle fill='none' stroke='black' cx='543' cy='283' r='5'/>
+  <!--79--><circle fill='none' stroke='black' cx='445' cy='236' r='5'/>
+  <!--80--><circle fill='blue' stroke='black' cx='422' cy='197' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='349' cy='259' r='2'/>
+  <!--81--><circle fill='none' stroke='black' cx='399' cy='236' r='5'/>
+  <!--82--><circle fill='none' stroke='black' cx='300' cy='283' r='5'/>
+  <!--83--><circle fill='blue' stroke='black' cx='237' cy='283' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='98' cy='221' r='2'/>
+  <!--84--><circle fill='none' stroke='black' cx='156' cy='283' r='5'/>
+  <!--85--><circle fill='none' stroke='black' cx='41' cy='160' r='5'/>
+  <!--86--><circle fill='blue' stroke='black' cx='41' cy='74' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='127' cy='-242' r='2'/>
+  <!--87--><circle fill='none' stroke='black' cx='102' cy='-264' r='5'/>
+  <!--88--><circle fill='none' stroke='black' cx='152' cy='-221' r='5'/>
+  <!--89--><circle fill='blue' stroke='black' cx='188' cy='-221' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='240' cy='-242' r='2'/>
+  <!--90--><circle fill='none' stroke='black' cx='219' cy='-221' r='5'/>
+  <!--91--><circle fill='none' stroke='black' cx='262' cy='-264' r='5'/>
+  <!--92--><circle fill='blue' stroke='black' cx='262' cy='-295' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='240' cy='-338' r='2'/>
+  <!--93--><circle fill='none' stroke='black' cx='262' cy='-321' r='5'/>
+  <!--94--><circle fill='none' stroke='black' cx='219' cy='-356' r='5'/>
+  <!--95--><circle fill='blue' stroke='black' cx='188' cy='-356' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='127' cy='-338' r='2'/>
+  <!--96--><circle fill='none' stroke='black' cx='152' cy='-356' r='5'/>
+  <!--97--><circle fill='none' stroke='black' cx='102' cy='-321' r='5'/>
+  <!--98--><circle fill='blue' stroke='black' cx='102' cy='-295' r='5'/>
+
+  <!-- draw straight lines between points -->
+  <path fill='none' stroke='green' d='
+   M 41,-7
+
+  '/>
+  <path fill='none' stroke='green' d=' M 41,-7 L 149,-123
+  '/>
+  <path fill='none' stroke='green' d=' M 149,-123 L 225,-123
+  '/>
+  <path fill='none' stroke='green' d=' M 225,-123 L 532,-123
+  '/>
+  <path fill='none' stroke='green' d=' M 532,-123 L 608,-123
+  '/>
+  <path fill='none' stroke='green' d=' M 608,-123 L 717,-216
+  '/>
+  <path fill='none' stroke='green' d=' M 717,-216 L 717,-283
+  '/>
+  <path fill='none' stroke='green' d=' M 717,-283 L 717,-354
+  '/>
+  <path fill='none' stroke='green' d=' M 717,-354 L 644,-455
+  '/>
+  <path fill='none' stroke='green' d=' M 644,-455 L 594,-455
+  '/>
+  <path fill='none' stroke='green' d=' M 594,-455 L 537,-455
+  '/>
+  <path fill='none' stroke='green' d=' M 537,-455 L 459,-382
+  '/>
+  <path fill='none' stroke='green' d=' M 459,-382 L 459,-332
+  '/>
+  <path fill='none' stroke='green' d=' M 459,-332 L 459,-172
+  '/>
+  <path fill='none' stroke='green' d=' M 459,-172 L 397,-172
+  '/>
+  <path fill='none' stroke='green' d=' M 397,-172 L 397,-332
+  '/>
+  <path fill='none' stroke='green' d=' M 397,-332 L 397,-382
+  '/>
+  <path fill='none' stroke='green' d=' M 397,-382 L 311,-455
+  '/>
+  <path fill='none' stroke='green' d=' M 311,-455 L 250,-455
+  '/>
+  <path fill='none' stroke='green' d=' M 250,-455 L 203,-455
+  '/>
+  <path fill='none' stroke='green' d=' M 203,-455 L 128,-408
+  '/>
+  <path fill='none' stroke='green' d=' M 128,-408 L 114,-369
+  '/>
+  <path fill='none' stroke='green' d=' M 114,-369 L 131,-384
+  '/>
+  <path fill='none' stroke='green' d=' M 131,-384 L 177,-400
+  '/>
+  <path fill='none' stroke='green' d=' M 177,-400 L 200,-400
+  '/>
+  <path fill='none' stroke='green' d=' M 200,-400 L 245,-400
+  '/>
+  <path fill='none' stroke='green' d=' M 245,-400 L 311,-338
+  '/>
+  <path fill='none' stroke='green' d=' M 311,-338 L 311,-295
+  '/>
+  <path fill='none' stroke='green' d=' M 311,-295 L 311,-245
+  '/>
+  <path fill='none' stroke='green' d=' M 311,-245 L 238,-172
+  '/>
+  <path fill='none' stroke='green' d=' M 238,-172 L 188,-172
+  '/>
+  <path fill='none' stroke='green' d=' M 188,-172 L 131,-172
+  '/>
+  <path fill='none' stroke='green' d=' M 131,-172 L 53,-251
+  '/>
+  <path fill='none' stroke='green' d=' M 53,-251 L 53,-307
+  '/>
+  <path fill='none' stroke='green' d=' M 53,-307 L 53,-388
+  '/>
+  <path fill='none' stroke='green' d=' M 53,-388 L 168,-504
+  '/>
+  <path fill='none' stroke='green' d=' M 168,-504 L 250,-504
+  '/>
+  <path fill='none' stroke='green' d=' M 250,-504 L 308,-504
+  '/>
+  <path fill='none' stroke='green' d=' M 308,-504 L 403,-455
+  '/>
+  <path fill='none' stroke='green' d=' M 403,-455 L 428,-412
+  '/>
+  <path fill='none' stroke='green' d=' M 428,-412 L 453,-455
+  '/>
+  <path fill='none' stroke='green' d=' M 453,-455 L 541,-504
+  '/>
+  <path fill='none' stroke='green' d=' M 541,-504 L 594,-504
+  '/>
+  <path fill='none' stroke='green' d=' M 594,-504 L 668,-504
+  '/>
+  <path fill='none' stroke='green' d=' M 668,-504 L 772,-375
+  '/>
+  <path fill='none' stroke='green' d=' M 772,-375 L 772,-283
+  '/>
+  <path fill='none' stroke='green' d=' M 772,-283 L 772,-197
+  '/>
+  <path fill='none' stroke='green' d=' M 772,-197 L 632,-74
+  '/>
+  <path fill='none' stroke='green' d=' M 632,-74 L 532,-74
+  '/>
+  <path fill='none' stroke='green' d=' M 532,-74 L 225,-74
+  '/>
+  <path fill='none' stroke='green' d=' M 225,-74 L 175,-74
+  '/>
+  <path fill='none' stroke='green' d=' M 175,-74 L 102,12
+  '/>
+  <path fill='none' stroke='green' d=' M 102,12 L 102,74
+  '/>
+  <path fill='none' stroke='green' d=' M 102,74 L 102,140
+  '/>
+  <path fill='none' stroke='green' d=' M 102,140 L 181,234
+  '/>
+  <path fill='none' stroke='green' d=' M 181,234 L 237,234
+  '/>
+  <path fill='none' stroke='green' d=' M 237,234 L 303,234
+  '/>
+  <path fill='none' stroke='green' d=' M 303,234 L 397,140
+  '/>
+  <path fill='none' stroke='green' d=' M 397,140 L 397,74
+  '/>
+  <path fill='none' stroke='green' d=' M 397,74 L 397,-12
+  '/>
+  <path fill='none' stroke='green' d=' M 397,-12 L 459,-12
+  '/>
+  <path fill='none' stroke='green' d=' M 459,-12 L 459,74
+  '/>
+  <path fill='none' stroke='green' d=' M 459,74 L 459,140
+  '/>
+  <path fill='none' stroke='green' d=' M 459,140 L 537,234
+  '/>
+  <path fill='none' stroke='green' d=' M 537,234 L 594,234
+  '/>
+  <path fill='none' stroke='green' d=' M 594,234 L 644,234
+  '/>
+  <path fill='none' stroke='green' d=' M 644,234 L 717,168
+  '/>
+  <path fill='none' stroke='green' d=' M 717,168 L 717,123
+  '/>
+  <path fill='none' stroke='green' d=' M 717,123 L 717,89
+  '/>
+  <path fill='none' stroke='green' d=' M 717,89 L 677,26
+  '/>
+  <path fill='none' stroke='green' d=' M 677,26 L 643,6
+  '/>
+  <path fill='none' stroke='green' d=' M 643,6 L 668,-43
+  '/>
+  <path fill='none' stroke='green' d=' M 668,-43 L 715,-26
+  '/>
+  <path fill='none' stroke='green' d=' M 715,-26 L 772,65
+  '/>
+  <path fill='none' stroke='green' d=' M 772,65 L 772,123
+  '/>
+  <path fill='none' stroke='green' d=' M 772,123 L 772,189
+  '/>
+  <path fill='none' stroke='green' d=' M 772,189 L 675,283
+  '/>
+  <path fill='none' stroke='green' d=' M 675,283 L 606,283
+  '/>
+  <path fill='none' stroke='green' d=' M 606,283 L 543,283
+  '/>
+  <path fill='none' stroke='green' d=' M 543,283 L 445,236
+  '/>
+  <path fill='none' stroke='green' d=' M 445,236 L 422,197
+  '/>
+  <path fill='none' stroke='green' d=' M 422,197 L 399,236
+  '/>
+  <path fill='none' stroke='green' d=' M 399,236 L 300,283
+  '/>
+  <path fill='none' stroke='green' d=' M 300,283 L 237,283
+  '/>
+  <path fill='none' stroke='green' d=' M 237,283 L 156,283
+  '/>
+  <path fill='none' stroke='green' d=' M 156,283 L 41,160
+  '/>
+  <path fill='none' stroke='green' d=' M 41,160 L 41,74
+  '/>
+  <path fill='none' stroke='green' stroke-dasharray='3' d=' M 41,74 L 102,-264
+  '/>
+  <path fill='none' stroke='green' d=' M 102,-264 L 152,-221
+  '/>
+  <path fill='none' stroke='green' d=' M 152,-221 L 188,-221
+  '/>
+  <path fill='none' stroke='green' d=' M 188,-221 L 219,-221
+  '/>
+  <path fill='none' stroke='green' d=' M 219,-221 L 262,-264
+  '/>
+  <path fill='none' stroke='green' d=' M 262,-264 L 262,-295
+  '/>
+  <path fill='none' stroke='green' d=' M 262,-295 L 262,-321
+  '/>
+  <path fill='none' stroke='green' d=' M 262,-321 L 219,-356
+  '/>
+  <path fill='none' stroke='green' d=' M 219,-356 L 188,-356
+  '/>
+  <path fill='none' stroke='green' d=' M 188,-356 L 152,-356
+  '/>
+  <path fill='none' stroke='green' d=' M 152,-356 L 102,-321
+  '/>
+  <path fill='none' stroke='green' d=' M 102,-321 L 102,-295
+  '/><!-- do outline -->
+
+<!--
+new contour starting. startpt index, endpt index:0,86
+number of points in this contour: 87
+moving to first pt 41,-7
+listing pts: [this pt index][isctrl] <next pt index><isctrl> [x,y] <nx,ny>
+ [0][1] <1><1> <<2>><<0>> [41,-7] <149,-123> <<225,-123>>
+ two adjacent ctl pts. adding point halfway between 0 and 1: reseting x and y to  [95,-65]
+first pt in contour was ctrl pt. moving to non-ctrl pt
+ bezier to 225,-123 ctlx, ctly: 149,-123
+ [1][1] <2><0> <<3>><<0>> [149,-123] <225,-123> <<532,-123>>
+ this is ctrl pt. skipping to 225,-123
+ [2][0] <3><0> <<4>><<1>> [225,-123] <532,-123> <<608,-123>>
+ line to 532,-123
+ [3][0] <4><1> <<5>><<1>> [532,-123] <608,-123> <<717,-216>>
+ two ctl pts coming. adding point halfway between 4 and 5: reseting nnx and nny to halfway pt bezier to 662,-169 ctlx, ctly: 608,-123
+ [4][1] <5><1> <<6>><<0>> [608,-123] <717,-216> <<717,-283>>
+ two adjacent ctl pts. adding point halfway between 4 and 5: reseting x and y to  [662,-169]
+ bezier to 717,-283 ctlx, ctly: 717,-216
+ [5][1] <6><0> <<7>><<1>> [717,-216] <717,-283> <<717,-354>>
+ this is ctrl pt. skipping to 717,-283
+ [6][0] <7><1> <<8>><<1>> [717,-283] <717,-354> <<644,-455>>
+ two ctl pts coming. adding point halfway between 7 and 8: reseting nnx and nny to halfway pt bezier to 680,-404 ctlx, ctly: 717,-354
+ [7][1] <8><1> <<9>><<0>> [717,-354] <644,-455> <<594,-455>>
+ two adjacent ctl pts. adding point halfway between 7 and 8: reseting x and y to  [680,-404]
+ bezier to 594,-455 ctlx, ctly: 644,-455
+ [8][1] <9><0> <<10>><<1>> [644,-455] <594,-455> <<537,-455>>
+ this is ctrl pt. skipping to 594,-455
+ [9][0] <10><1> <<11>><<1>> [594,-455] <537,-455> <<459,-382>>
+ two ctl pts coming. adding point halfway between 10 and 11: reseting nnx and nny to halfway pt bezier to 498,-418 ctlx, ctly: 537,-455
+ [10][1] <11><1> <<12>><<0>> [537,-455] <459,-382> <<459,-332>>
+ two adjacent ctl pts. adding point halfway between 10 and 11: reseting x and y to  [498,-418]
+ bezier to 459,-332 ctlx, ctly: 459,-382
+ [11][1] <12><0> <<13>><<0>> [459,-382] <459,-332> <<459,-172>>
+ this is ctrl pt. skipping to 459,-332
+ [12][0] <13><0> <<14>><<0>> [459,-332] <459,-172> <<397,-172>>
+ line to 459,-172
+ [13][0] <14><0> <<15>><<0>> [459,-172] <397,-172> <<397,-332>>
+ line to 397,-172
+ [14][0] <15><0> <<16>><<1>> [397,-172] <397,-332> <<397,-382>>
+ line to 397,-332
+ [15][0] <16><1> <<17>><<1>> [397,-332] <397,-382> <<311,-455>>
+ two ctl pts coming. adding point halfway between 16 and 17: reseting nnx and nny to halfway pt bezier to 354,-418 ctlx, ctly: 397,-382
+ [16][1] <17><1> <<18>><<0>> [397,-382] <311,-455> <<250,-455>>
+ two adjacent ctl pts. adding point halfway between 16 and 17: reseting x and y to  [354,-418]
+ bezier to 250,-455 ctlx, ctly: 311,-455
+ [17][1] <18><0> <<19>><<1>> [311,-455] <250,-455> <<203,-455>>
+ this is ctrl pt. skipping to 250,-455
+ [18][0] <19><1> <<20>><<1>> [250,-455] <203,-455> <<128,-408>>
+ two ctl pts coming. adding point halfway between 19 and 20: reseting nnx and nny to halfway pt bezier to 165,-431 ctlx, ctly: 203,-455
+ [19][1] <20><1> <<21>><<0>> [203,-455] <128,-408> <<114,-369>>
+ two adjacent ctl pts. adding point halfway between 19 and 20: reseting x and y to  [165,-431]
+ bezier to 114,-369 ctlx, ctly: 128,-408
+ [20][1] <21><0> <<22>><<1>> [128,-408] <114,-369> <<131,-384>>
+ this is ctrl pt. skipping to 114,-369
+ [21][0] <22><1> <<23>><<1>> [114,-369] <131,-384> <<177,-400>>
+ two ctl pts coming. adding point halfway between 22 and 23: reseting nnx and nny to halfway pt bezier to 154,-392 ctlx, ctly: 131,-384
+ [22][1] <23><1> <<24>><<0>> [131,-384] <177,-400> <<200,-400>>
+ two adjacent ctl pts. adding point halfway between 22 and 23: reseting x and y to  [154,-392]
+ bezier to 200,-400 ctlx, ctly: 177,-400
+ [23][1] <24><0> <<25>><<1>> [177,-400] <200,-400> <<245,-400>>
+ this is ctrl pt. skipping to 200,-400
+ [24][0] <25><1> <<26>><<1>> [200,-400] <245,-400> <<311,-338>>
+ two ctl pts coming. adding point halfway between 25 and 26: reseting nnx and nny to halfway pt bezier to 278,-369 ctlx, ctly: 245,-400
+ [25][1] <26><1> <<27>><<0>> [245,-400] <311,-338> <<311,-295>>
+ two adjacent ctl pts. adding point halfway between 25 and 26: reseting x and y to  [278,-369]
+ bezier to 311,-295 ctlx, ctly: 311,-338
+ [26][1] <27><0> <<28>><<1>> [311,-338] <311,-295> <<311,-245>>
+ this is ctrl pt. skipping to 311,-295
+ [27][0] <28><1> <<29>><<1>> [311,-295] <311,-245> <<238,-172>>
+ two ctl pts coming. adding point halfway between 28 and 29: reseting nnx and nny to halfway pt bezier to 274,-208 ctlx, ctly: 311,-245
+ [28][1] <29><1> <<30>><<0>> [311,-245] <238,-172> <<188,-172>>
+ two adjacent ctl pts. adding point halfway between 28 and 29: reseting x and y to  [274,-208]
+ bezier to 188,-172 ctlx, ctly: 238,-172
+ [29][1] <30><0> <<31>><<1>> [238,-172] <188,-172> <<131,-172>>
+ this is ctrl pt. skipping to 188,-172
+ [30][0] <31><1> <<32>><<1>> [188,-172] <131,-172> <<53,-251>>
+ two ctl pts coming. adding point halfway between 31 and 32: reseting nnx and nny to halfway pt bezier to 92,-211 ctlx, ctly: 131,-172
+ [31][1] <32><1> <<33>><<0>> [131,-172] <53,-251> <<53,-307>>
+ two adjacent ctl pts. adding point halfway between 31 and 32: reseting x and y to  [92,-211]
+ bezier to 53,-307 ctlx, ctly: 53,-251
+ [32][1] <33><0> <<34>><<1>> [53,-251] <53,-307> <<53,-388>>
+ this is ctrl pt. skipping to 53,-307
+ [33][0] <34><1> <<35>><<1>> [53,-307] <53,-388> <<168,-504>>
+ two ctl pts coming. adding point halfway between 34 and 35: reseting nnx and nny to halfway pt bezier to 110,-446 ctlx, ctly: 53,-388
+ [34][1] <35><1> <<36>><<0>> [53,-388] <168,-504> <<250,-504>>
+ two adjacent ctl pts. adding point halfway between 34 and 35: reseting x and y to  [110,-446]
+ bezier to 250,-504 ctlx, ctly: 168,-504
+ [35][1] <36><0> <<37>><<1>> [168,-504] <250,-504> <<308,-504>>
+ this is ctrl pt. skipping to 250,-504
+ [36][0] <37><1> <<38>><<1>> [250,-504] <308,-504> <<403,-455>>
+ two ctl pts coming. adding point halfway between 37 and 38: reseting nnx and nny to halfway pt bezier to 355,-479 ctlx, ctly: 308,-504
+ [37][1] <38><1> <<39>><<0>> [308,-504] <403,-455> <<428,-412>>
+ two adjacent ctl pts. adding point halfway between 37 and 38: reseting x and y to  [355,-479]
+ bezier to 428,-412 ctlx, ctly: 403,-455
+ [38][1] <39><0> <<40>><<1>> [403,-455] <428,-412> <<453,-455>>
+ this is ctrl pt. skipping to 428,-412
+ [39][0] <40><1> <<41>><<1>> [428,-412] <453,-455> <<541,-504>>
+ two ctl pts coming. adding point halfway between 40 and 41: reseting nnx and nny to halfway pt bezier to 497,-479 ctlx, ctly: 453,-455
+ [40][1] <41><1> <<42>><<0>> [453,-455] <541,-504> <<594,-504>>
+ two adjacent ctl pts. adding point halfway between 40 and 41: reseting x and y to  [497,-479]
+ bezier to 594,-504 ctlx, ctly: 541,-504
+ [41][1] <42><0> <<43>><<1>> [541,-504] <594,-504> <<668,-504>>
+ this is ctrl pt. skipping to 594,-504
+ [42][0] <43><1> <<44>><<1>> [594,-504] <668,-504> <<772,-375>>
+ two ctl pts coming. adding point halfway between 43 and 44: reseting nnx and nny to halfway pt bezier to 720,-439 ctlx, ctly: 668,-504
+ [43][1] <44><1> <<45>><<0>> [668,-504] <772,-375> <<772,-283>>
+ two adjacent ctl pts. adding point halfway between 43 and 44: reseting x and y to  [720,-439]
+ bezier to 772,-283 ctlx, ctly: 772,-375
+ [44][1] <45><0> <<46>><<1>> [772,-375] <772,-283> <<772,-197>>
+ this is ctrl pt. skipping to 772,-283
+ [45][0] <46><1> <<47>><<1>> [772,-283] <772,-197> <<632,-74>>
+ two ctl pts coming. adding point halfway between 46 and 47: reseting nnx and nny to halfway pt bezier to 702,-135 ctlx, ctly: 772,-197
+ [46][1] <47><1> <<48>><<0>> [772,-197] <632,-74> <<532,-74>>
+ two adjacent ctl pts. adding point halfway between 46 and 47: reseting x and y to  [702,-135]
+ bezier to 532,-74 ctlx, ctly: 632,-74
+ [47][1] <48><0> <<49>><<0>> [632,-74] <532,-74> <<225,-74>>
+ this is ctrl pt. skipping to 532,-74
+ [48][0] <49><0> <<50>><<1>> [532,-74] <225,-74> <<175,-74>>
+ line to 225,-74
+ [49][0] <50><1> <<51>><<1>> [225,-74] <175,-74> <<102,12>>
+ two ctl pts coming. adding point halfway between 50 and 51: reseting nnx and nny to halfway pt bezier to 138,-31 ctlx, ctly: 175,-74
+ [50][1] <51><1> <<52>><<0>> [175,-74] <102,12> <<102,74>>
+ two adjacent ctl pts. adding point halfway between 50 and 51: reseting x and y to  [138,-31]
+ bezier to 102,74 ctlx, ctly: 102,12
+ [51][1] <52><0> <<53>><<1>> [102,12] <102,74> <<102,140>>
+ this is ctrl pt. skipping to 102,74
+ [52][0] <53><1> <<54>><<1>> [102,74] <102,140> <<181,234>>
+ two ctl pts coming. adding point halfway between 53 and 54: reseting nnx and nny to halfway pt bezier to 141,187 ctlx, ctly: 102,140
+ [53][1] <54><1> <<55>><<0>> [102,140] <181,234> <<237,234>>
+ two adjacent ctl pts. adding point halfway between 53 and 54: reseting x and y to  [141,187]
+ bezier to 237,234 ctlx, ctly: 181,234
+ [54][1] <55><0> <<56>><<1>> [181,234] <237,234> <<303,234>>
+ this is ctrl pt. skipping to 237,234
+ [55][0] <56><1> <<57>><<1>> [237,234] <303,234> <<397,140>>
+ two ctl pts coming. adding point halfway between 56 and 57: reseting nnx and nny to halfway pt bezier to 350,187 ctlx, ctly: 303,234
+ [56][1] <57><1> <<58>><<0>> [303,234] <397,140> <<397,74>>
+ two adjacent ctl pts. adding point halfway between 56 and 57: reseting x and y to  [350,187]
+ bezier to 397,74 ctlx, ctly: 397,140
+ [57][1] <58><0> <<59>><<0>> [397,140] <397,74> <<397,-12>>
+ this is ctrl pt. skipping to 397,74
+ [58][0] <59><0> <<60>><<0>> [397,74] <397,-12> <<459,-12>>
+ line to 397,-12
+ [59][0] <60><0> <<61>><<0>> [397,-12] <459,-12> <<459,74>>
+ line to 459,-12
+ [60][0] <61><0> <<62>><<1>> [459,-12] <459,74> <<459,140>>
+ line to 459,74
+ [61][0] <62><1> <<63>><<1>> [459,74] <459,140> <<537,234>>
+ two ctl pts coming. adding point halfway between 62 and 63: reseting nnx and nny to halfway pt bezier to 498,187 ctlx, ctly: 459,140
+ [62][1] <63><1> <<64>><<0>> [459,140] <537,234> <<594,234>>
+ two adjacent ctl pts. adding point halfway between 62 and 63: reseting x and y to  [498,187]
+ bezier to 594,234 ctlx, ctly: 537,234
+ [63][1] <64><0> <<65>><<1>> [537,234] <594,234> <<644,234>>
+ this is ctrl pt. skipping to 594,234
+ [64][0] <65><1> <<66>><<1>> [594,234] <644,234> <<717,168>>
+ two ctl pts coming. adding point halfway between 65 and 66: reseting nnx and nny to halfway pt bezier to 680,201 ctlx, ctly: 644,234
+ [65][1] <66><1> <<67>><<0>> [644,234] <717,168> <<717,123>>
+ two adjacent ctl pts. adding point halfway between 65 and 66: reseting x and y to  [680,201]
+ bezier to 717,123 ctlx, ctly: 717,168
+ [66][1] <67><0> <<68>><<1>> [717,168] <717,123> <<717,89>>
+ this is ctrl pt. skipping to 717,123
+ [67][0] <68><1> <<69>><<1>> [717,123] <717,89> <<677,26>>
+ two ctl pts coming. adding point halfway between 68 and 69: reseting nnx and nny to halfway pt bezier to 697,57 ctlx, ctly: 717,89
+ [68][1] <69><1> <<70>><<0>> [717,89] <677,26> <<643,6>>
+ two adjacent ctl pts. adding point halfway between 68 and 69: reseting x and y to  [697,57]
+ bezier to 643,6 ctlx, ctly: 677,26
+ [69][1] <70><0> <<71>><<0>> [677,26] <643,6> <<668,-43>>
+ this is ctrl pt. skipping to 643,6
+ [70][0] <71><0> <<72>><<1>> [643,6] <668,-43> <<715,-26>>
+ line to 668,-43
+ [71][0] <72><1> <<73>><<1>> [668,-43] <715,-26> <<772,65>>
+ two ctl pts coming. adding point halfway between 72 and 73: reseting nnx and nny to halfway pt bezier to 743,19 ctlx, ctly: 715,-26
+ [72][1] <73><1> <<74>><<0>> [715,-26] <772,65> <<772,123>>
+ two adjacent ctl pts. adding point halfway between 72 and 73: reseting x and y to  [743,19]
+ bezier to 772,123 ctlx, ctly: 772,65
+ [73][1] <74><0> <<75>><<1>> [772,65] <772,123> <<772,189>>
+ this is ctrl pt. skipping to 772,123
+ [74][0] <75><1> <<76>><<1>> [772,123] <772,189> <<675,283>>
+ two ctl pts coming. adding point halfway between 75 and 76: reseting nnx and nny to halfway pt bezier to 723,236 ctlx, ctly: 772,189
+ [75][1] <76><1> <<77>><<0>> [772,189] <675,283> <<606,283>>
+ two adjacent ctl pts. adding point halfway between 75 and 76: reseting x and y to  [723,236]
+ bezier to 606,283 ctlx, ctly: 675,283
+ [76][1] <77><0> <<78>><<1>> [675,283] <606,283> <<543,283>>
+ this is ctrl pt. skipping to 606,283
+ [77][0] <78><1> <<79>><<1>> [606,283] <543,283> <<445,236>>
+ two ctl pts coming. adding point halfway between 78 and 79: reseting nnx and nny to halfway pt bezier to 494,259 ctlx, ctly: 543,283
+ [78][1] <79><1> <<80>><<0>> [543,283] <445,236> <<422,197>>
+ two adjacent ctl pts. adding point halfway between 78 and 79: reseting x and y to  [494,259]
+ bezier to 422,197 ctlx, ctly: 445,236
+ [79][1] <80><0> <<81>><<1>> [445,236] <422,197> <<399,236>>
+ this is ctrl pt. skipping to 422,197
+ [80][0] <81><1> <<82>><<1>> [422,197] <399,236> <<300,283>>
+ two ctl pts coming. adding point halfway between 81 and 82: reseting nnx and nny to halfway pt bezier to 349,259 ctlx, ctly: 399,236
+ [81][1] <82><1> <<83>><<0>> [399,236] <300,283> <<237,283>>
+ two adjacent ctl pts. adding point halfway between 81 and 82: reseting x and y to  [349,259]
+ bezier to 237,283 ctlx, ctly: 300,283
+ [82][1] <83><0> <<84>><<1>> [300,283] <237,283> <<156,283>>
+ this is ctrl pt. skipping to 237,283
+ [83][0] <84><1> <<85>><<1>> [237,283] <156,283> <<41,160>>
+ two ctl pts coming. adding point halfway between 84 and 85: reseting nnx and nny to halfway pt bezier to 98,221 ctlx, ctly: 156,283
+ [84][1] <85><1> <<86>><<0>> [156,283] <41,160> <<41,74>>
+ two adjacent ctl pts. adding point halfway between 84 and 85: reseting x and y to  [98,221]
+ bezier to 41,74 ctlx, ctly: 41,160
+ [85][1] <86><0> <<0>><<1>> [41,160] <41,74> <<41,-7>>
+ this is ctrl pt. skipping to 41,74
+ [86][0] <0><1> <<1>><<1>> [41,74] <41,-7> <<149,-123>>
+ two ctl pts coming. adding point halfway between 0 and 1: reseting nnx and nny to halfway pt bezier to 95,-65 ctlx, ctly: 41,-7
+new contour starting. startpt index, endpt index:87,98
+number of points in this contour: 12
+moving to first pt 102,-264
+listing pts: [this pt index][isctrl] <next pt index><isctrl> [x,y] <nx,ny>
+ [87][1] <88><1> <<89>><<0>> [102,-264] <152,-221> <<188,-221>>
+ two adjacent ctl pts. adding point halfway between 87 and 88: reseting x and y to  [127,-242]
+first pt in contour was ctrl pt. moving to non-ctrl pt
+ bezier to 188,-221 ctlx, ctly: 152,-221
+ [88][1] <89><0> <<90>><<1>> [152,-221] <188,-221> <<219,-221>>
+ this is ctrl pt. skipping to 188,-221
+ [89][0] <90><1> <<91>><<1>> [188,-221] <219,-221> <<262,-264>>
+ two ctl pts coming. adding point halfway between 90 and 91: reseting nnx and nny to halfway pt bezier to 240,-242 ctlx, ctly: 219,-221
+ [90][1] <91><1> <<92>><<0>> [219,-221] <262,-264> <<262,-295>>
+ two adjacent ctl pts. adding point halfway between 90 and 91: reseting x and y to  [240,-242]
+ bezier to 262,-295 ctlx, ctly: 262,-264
+ [91][1] <92><0> <<93>><<1>> [262,-264] <262,-295> <<262,-321>>
+ this is ctrl pt. skipping to 262,-295
+ [92][0] <93><1> <<94>><<1>> [262,-295] <262,-321> <<219,-356>>
+ two ctl pts coming. adding point halfway between 93 and 94: reseting nnx and nny to halfway pt bezier to 240,-338 ctlx, ctly: 262,-321
+ [93][1] <94><1> <<95>><<0>> [262,-321] <219,-356> <<188,-356>>
+ two adjacent ctl pts. adding point halfway between 93 and 94: reseting x and y to  [240,-338]
+ bezier to 188,-356 ctlx, ctly: 219,-356
+ [94][1] <95><0> <<96>><<1>> [219,-356] <188,-356> <<152,-356>>
+ this is ctrl pt. skipping to 188,-356
+ [95][0] <96><1> <<97>><<1>> [188,-356] <152,-356> <<102,-321>>
+ two ctl pts coming. adding point halfway between 96 and 97: reseting nnx and nny to halfway pt bezier to 127,-338 ctlx, ctly: 152,-356
+ [96][1] <97><1> <<98>><<0>> [152,-356] <102,-321> <<102,-295>>
+ two adjacent ctl pts. adding point halfway between 96 and 97: reseting x and y to  [127,-338]
+ bezier to 102,-295 ctlx, ctly: 102,-321
+ [97][1] <98><0> <<87>><<1>> [102,-321] <102,-295> <<102,-264>>
+ this is ctrl pt. skipping to 102,-295
+ [98][0] <87><1> <<88>><<1>> [102,-295] <102,-264> <<152,-221>>
+ two ctl pts coming. adding point halfway between 87 and 88: reseting nnx and nny to halfway pt bezier to 127,-242 ctlx, ctly: 102,-264
+ 
+-->
+
+
+  <!-- draw actual outline using lines and Bezier curves-->
+  <path fill='black' stroke='black' fill-opacity='0.45'  stroke-width='2'  d='
+ M 41,-7
+ M 95,-65
+ Q 149,-123 225,-123
+ L 532,-123
+ Q 608,-123 662,-169
+ Q 717,-216 717,-283
+ Q 717,-354 680,-404
+ Q 644,-455 594,-455
+ Q 537,-455 498,-418
+ Q 459,-382 459,-332
+ L 459,-172
+ L 397,-172
+ L 397,-332
+ Q 397,-382 354,-418
+ Q 311,-455 250,-455
+ Q 203,-455 165,-431
+ Q 128,-408 114,-369
+ Q 131,-384 154,-392
+ Q 177,-400 200,-400
+ Q 245,-400 278,-369
+ Q 311,-338 311,-295
+ Q 311,-245 274,-208
+ Q 238,-172 188,-172
+ Q 131,-172 92,-211
+ Q 53,-251 53,-307
+ Q 53,-388 110,-446
+ Q 168,-504 250,-504
+ Q 308,-504 355,-479
+ Q 403,-455 428,-412
+ Q 453,-455 497,-479
+ Q 541,-504 594,-504
+ Q 668,-504 720,-439
+ Q 772,-375 772,-283
+ Q 772,-197 702,-135
+ Q 632,-74 532,-74
+ L 225,-74
+ Q 175,-74 138,-31
+ Q 102,12 102,74
+ Q 102,140 141,187
+ Q 181,234 237,234
+ Q 303,234 350,187
+ Q 397,140 397,74
+ L 397,-12
+ L 459,-12
+ L 459,74
+ Q 459,140 498,187
+ Q 537,234 594,234
+ Q 644,234 680,201
+ Q 717,168 717,123
+ Q 717,89 697,57
+ Q 677,26 643,6
+ L 668,-43
+ Q 715,-26 743,19
+ Q 772,65 772,123
+ Q 772,189 723,236
+ Q 675,283 606,283
+ Q 543,283 494,259
+ Q 445,236 422,197
+ Q 399,236 349,259
+ Q 300,283 237,283
+ Q 156,283 98,221
+ Q 41,160 41,74
+ Q 41,-7 95,-65
+ Z
+
+ M 102,-264
+ M 127,-242
+ Q 152,-221 188,-221
+ Q 219,-221 240,-242
+ Q 262,-264 262,-295
+ Q 262,-321 240,-338
+ Q 219,-356 188,-356
+ Q 152,-356 127,-338
+ Q 102,-321 102,-295
+ Q 102,-264 127,-242
+ Z
+
+  '/>
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='46' y='-12' stroke='none' fill='darkgreen'>
+  41,-7  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='154' y='-128' stroke='none' fill='darkgreen'>
+  149,-123  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='230' y='-128' stroke='none' fill='darkgreen'>
+  225,-123  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='537' y='-128' stroke='none' fill='darkgreen'>
+  532,-123  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='613' y='-128' stroke='none' fill='darkgreen'>
+  608,-123  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='722' y='-221' stroke='none' fill='darkgreen'>
+  717,-216  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='722' y='-288' stroke='none' fill='darkgreen'>
+  717,-283  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='722' y='-359' stroke='none' fill='darkgreen'>
+  717,-354  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='649' y='-460' stroke='none' fill='darkgreen'>
+  644,-455  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='599' y='-460' stroke='none' fill='darkgreen'>
+  594,-455  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='542' y='-460' stroke='none' fill='darkgreen'>
+  537,-455  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='464' y='-387' stroke='none' fill='darkgreen'>
+  459,-382  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='464' y='-337' stroke='none' fill='darkgreen'>
+  459,-332  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='464' y='-177' stroke='none' fill='darkgreen'>
+  459,-172  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='402' y='-177' stroke='none' fill='darkgreen'>
+  397,-172  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='402' y='-337' stroke='none' fill='darkgreen'>
+  397,-332  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='402' y='-387' stroke='none' fill='darkgreen'>
+  397,-382  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='316' y='-460' stroke='none' fill='darkgreen'>
+  311,-455  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='255' y='-460' stroke='none' fill='darkgreen'>
+  250,-455  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='208' y='-460' stroke='none' fill='darkgreen'>
+  203,-455  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='133' y='-413' stroke='none' fill='darkgreen'>
+  128,-408  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='119' y='-374' stroke='none' fill='darkgreen'>
+  114,-369  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='136' y='-389' stroke='none' fill='darkgreen'>
+  131,-384  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='182' y='-405' stroke='none' fill='darkgreen'>
+  177,-400  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='205' y='-405' stroke='none' fill='darkgreen'>
+  200,-400  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='250' y='-405' stroke='none' fill='darkgreen'>
+  245,-400  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='316' y='-343' stroke='none' fill='darkgreen'>
+  311,-338  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='316' y='-300' stroke='none' fill='darkgreen'>
+  311,-295  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='316' y='-250' stroke='none' fill='darkgreen'>
+  311,-245  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='243' y='-177' stroke='none' fill='darkgreen'>
+  238,-172  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='193' y='-177' stroke='none' fill='darkgreen'>
+  188,-172  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='136' y='-177' stroke='none' fill='darkgreen'>
+  131,-172  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='58' y='-256' stroke='none' fill='darkgreen'>
+  53,-251  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='58' y='-312' stroke='none' fill='darkgreen'>
+  53,-307  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='58' y='-393' stroke='none' fill='darkgreen'>
+  53,-388  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='173' y='-509' stroke='none' fill='darkgreen'>
+  168,-504  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='255' y='-509' stroke='none' fill='darkgreen'>
+  250,-504  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='313' y='-509' stroke='none' fill='darkgreen'>
+  308,-504  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='408' y='-460' stroke='none' fill='darkgreen'>
+  403,-455  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='433' y='-417' stroke='none' fill='darkgreen'>
+  428,-412  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='458' y='-460' stroke='none' fill='darkgreen'>
+  453,-455  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='546' y='-509' stroke='none' fill='darkgreen'>
+  541,-504  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='599' y='-509' stroke='none' fill='darkgreen'>
+  594,-504  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='673' y='-509' stroke='none' fill='darkgreen'>
+  668,-504  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='777' y='-380' stroke='none' fill='darkgreen'>
+  772,-375  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='777' y='-288' stroke='none' fill='darkgreen'>
+  772,-283  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='777' y='-202' stroke='none' fill='darkgreen'>
+  772,-197  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='637' y='-79' stroke='none' fill='darkgreen'>
+  632,-74  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='537' y='-79' stroke='none' fill='darkgreen'>
+  532,-74  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='230' y='-79' stroke='none' fill='darkgreen'>
+  225,-74  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='180' y='-79' stroke='none' fill='darkgreen'>
+  175,-74  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='107' y='7' stroke='none' fill='darkgreen'>
+  102,12  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='107' y='69' stroke='none' fill='darkgreen'>
+  102,74  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='107' y='135' stroke='none' fill='darkgreen'>
+  102,140  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='186' y='229' stroke='none' fill='darkgreen'>
+  181,234  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='242' y='229' stroke='none' fill='darkgreen'>
+  237,234  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='308' y='229' stroke='none' fill='darkgreen'>
+  303,234  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='402' y='135' stroke='none' fill='darkgreen'>
+  397,140  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='402' y='69' stroke='none' fill='darkgreen'>
+  397,74  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='402' y='-17' stroke='none' fill='darkgreen'>
+  397,-12  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='464' y='-17' stroke='none' fill='darkgreen'>
+  459,-12  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='464' y='69' stroke='none' fill='darkgreen'>
+  459,74  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='464' y='135' stroke='none' fill='darkgreen'>
+  459,140  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='542' y='229' stroke='none' fill='darkgreen'>
+  537,234  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='599' y='229' stroke='none' fill='darkgreen'>
+  594,234  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='649' y='229' stroke='none' fill='darkgreen'>
+  644,234  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='722' y='163' stroke='none' fill='darkgreen'>
+  717,168  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='722' y='118' stroke='none' fill='darkgreen'>
+  717,123  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='722' y='84' stroke='none' fill='darkgreen'>
+  717,89  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='682' y='21' stroke='none' fill='darkgreen'>
+  677,26  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='648' y='1' stroke='none' fill='darkgreen'>
+  643,6  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='673' y='-48' stroke='none' fill='darkgreen'>
+  668,-43  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='720' y='-31' stroke='none' fill='darkgreen'>
+  715,-26  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='777' y='60' stroke='none' fill='darkgreen'>
+  772,65  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='777' y='118' stroke='none' fill='darkgreen'>
+  772,123  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='777' y='184' stroke='none' fill='darkgreen'>
+  772,189  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='680' y='278' stroke='none' fill='darkgreen'>
+  675,283  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='611' y='278' stroke='none' fill='darkgreen'>
+  606,283  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='548' y='278' stroke='none' fill='darkgreen'>
+  543,283  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='450' y='231' stroke='none' fill='darkgreen'>
+  445,236  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='427' y='192' stroke='none' fill='darkgreen'>
+  422,197  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='404' y='231' stroke='none' fill='darkgreen'>
+  399,236  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='305' y='278' stroke='none' fill='darkgreen'>
+  300,283  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='242' y='278' stroke='none' fill='darkgreen'>
+  237,283  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='161' y='278' stroke='none' fill='darkgreen'>
+  156,283  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='46' y='155' stroke='none' fill='darkgreen'>
+  41,160  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='46' y='69' stroke='none' fill='darkgreen'>
+  41,74  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='107' y='-269' stroke='none' fill='darkgreen'>
+  102,-264  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='157' y='-226' stroke='none' fill='darkgreen'>
+  152,-221  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='193' y='-226' stroke='none' fill='darkgreen'>
+  188,-221  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='224' y='-226' stroke='none' fill='darkgreen'>
+  219,-221  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='267' y='-269' stroke='none' fill='darkgreen'>
+  262,-264  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='267' y='-300' stroke='none' fill='darkgreen'>
+  262,-295  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='267' y='-326' stroke='none' fill='darkgreen'>
+  262,-321  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='224' y='-361' stroke='none' fill='darkgreen'>
+  219,-356  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='193' y='-361' stroke='none' fill='darkgreen'>
+  188,-356  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='157' y='-361' stroke='none' fill='darkgreen'>
+  152,-356  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='107' y='-326' stroke='none' fill='darkgreen'>
+  102,-321  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='107' y='-300' stroke='none' fill='darkgreen'>
+  102,-295  </text>
+ </g>
+
+ </g>
+</svg>

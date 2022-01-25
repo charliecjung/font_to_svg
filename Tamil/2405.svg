@@ -1,0 +1,143 @@
+<!--
+Unicode requested: 2405 (decimal: 2405 hex: 0x965)
+Glyph index for unicode: 55
+Load Glyph into Face's glyph slot. error code: 0
+Glyph Name: uni0965
+Glyph Width: 259 Height: 615 Hor. Advance: 534 Vert. Advance: 2048
+Num points: 8
+Num contours: 2
+Contour endpoint index values: 3 7
+-->
+
+<svg width='2217px' height='1221px' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+
+ <!-- draw border -->
+ <rect fill='none' stroke='black' width='2216' height='1220'/>
+
+ <!-- make sure glyph is visible within svg window -->
+ <g fill-rule='nonzero'  transform='translate(100 1431)'>
+
+  <!-- draw axes --> 
+ <path stroke='blue' stroke-dasharray='5,5' d=' M-2217,0 L2217,0 M0,-1221 L0,1221 '/>
+
+  <!-- draw bearing + advance box --> 
+ <path stroke='blue' fill='none' stroke-dasharray='10,16' d=' M0,-1331 M0,717 L534,717 L534,-1331 L0,-1331 '/>
+
+  <!-- draw points as circles -->
+  <!--0--><circle fill='blue' stroke='black' cx='184' cy='-615' r='10'/>
+  <!--1--><circle fill='blue' stroke='black' cx='246' cy='-615' r='5'/>
+  <!--2--><circle fill='blue' stroke='black' cx='246' cy='0' r='5'/>
+  <!--3--><circle fill='blue' stroke='black' cx='184' cy='0' r='5'/>
+  <!--4--><circle fill='blue' stroke='black' cx='381' cy='-615' r='5'/>
+  <!--5--><circle fill='blue' stroke='black' cx='443' cy='-615' r='5'/>
+  <!--6--><circle fill='blue' stroke='black' cx='443' cy='0' r='5'/>
+  <!--7--><circle fill='blue' stroke='black' cx='381' cy='0' r='5'/>
+
+  <!-- draw straight lines between points -->
+  <path fill='none' stroke='green' d='
+   M 184,-615
+
+  '/>
+  <path fill='none' stroke='green' d=' M 184,-615 L 246,-615
+  '/>
+  <path fill='none' stroke='green' d=' M 246,-615 L 246,0
+  '/>
+  <path fill='none' stroke='green' d=' M 246,0 L 184,0
+  '/>
+  <path fill='none' stroke='green' stroke-dasharray='3' d=' M 184,0 L 381,-615
+  '/>
+  <path fill='none' stroke='green' d=' M 381,-615 L 443,-615
+  '/>
+  <path fill='none' stroke='green' d=' M 443,-615 L 443,0
+  '/>
+  <path fill='none' stroke='green' d=' M 443,0 L 381,0
+  '/><!-- do outline -->
+
+<!--
+new contour starting. startpt index, endpt index:0,3
+number of points in this contour: 4
+moving to first pt 184,-615
+listing pts: [this pt index][isctrl] <next pt index><isctrl> [x,y] <nx,ny>
+ [0][0] <1><0> <<2>><<0>> [184,-615] <246,-615> <<246,0>>
+ line to 246,-615
+ [1][0] <2><0> <<3>><<0>> [246,-615] <246,0> <<184,0>>
+ line to 246,0
+ [2][0] <3><0> <<0>><<0>> [246,0] <184,0> <<184,-615>>
+ line to 184,0
+ [3][0] <0><0> <<1>><<0>> [184,0] <184,-615> <<246,-615>>
+ line to 184,-615
+new contour starting. startpt index, endpt index:4,7
+number of points in this contour: 4
+moving to first pt 381,-615
+listing pts: [this pt index][isctrl] <next pt index><isctrl> [x,y] <nx,ny>
+ [4][0] <5><0> <<6>><<0>> [381,-615] <443,-615> <<443,0>>
+ line to 443,-615
+ [5][0] <6><0> <<7>><<0>> [443,-615] <443,0> <<381,0>>
+ line to 443,0
+ [6][0] <7><0> <<4>><<0>> [443,0] <381,0> <<381,-615>>
+ line to 381,0
+ [7][0] <4><0> <<5>><<0>> [381,0] <381,-615> <<443,-615>>
+ line to 381,-615
+ 
+-->
+
+
+  <!-- draw actual outline using lines and Bezier curves-->
+  <path fill='black' stroke='black' fill-opacity='0.45'  stroke-width='2'  d='
+ M 184,-615
+ L 246,-615
+ L 246,0
+ L 184,0
+ L 184,-615
+ Z
+
+ M 381,-615
+ L 443,-615
+ L 443,0
+ L 381,0
+ L 381,-615
+ Z
+
+  '/>
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='189' y='-620' stroke='none' fill='darkgreen'>
+  184,-615  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='251' y='-620' stroke='none' fill='darkgreen'>
+  246,-615  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='251' y='-5' stroke='none' fill='darkgreen'>
+  246,0  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='189' y='-5' stroke='none' fill='darkgreen'>
+  184,0  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='386' y='-620' stroke='none' fill='darkgreen'>
+  381,-615  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='448' y='-620' stroke='none' fill='darkgreen'>
+  443,-615  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='448' y='-5' stroke='none' fill='darkgreen'>
+  443,0  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='386' y='-5' stroke='none' fill='darkgreen'>
+  381,0  </text>
+ </g>
+
+ </g>
+</svg>

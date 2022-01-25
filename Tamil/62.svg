@@ -1,0 +1,125 @@
+<!--
+Unicode requested: 62 (decimal: 62 hex: 0x3e)
+Glyph index for unicode: 33
+Load Glyph into Face's glyph slot. error code: 0
+Glyph Name: greater
+Glyph Width: 493 Height: 594 Hor. Advance: 677 Vert. Advance: 2048
+Num points: 7
+Num contours: 1
+Contour endpoint index values: 6
+-->
+
+<svg width='2217px' height='1221px' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+
+ <!-- draw border -->
+ <rect fill='none' stroke='black' width='2216' height='1220'/>
+
+ <!-- make sure glyph is visible within svg window -->
+ <g fill-rule='nonzero'  transform='translate(100 1347)'>
+
+  <!-- draw axes --> 
+ <path stroke='blue' stroke-dasharray='5,5' d=' M-2217,0 L2217,0 M0,-1221 L0,1221 '/>
+
+  <!-- draw bearing + advance box --> 
+ <path stroke='blue' fill='none' stroke-dasharray='10,16' d=' M0,-1321 M0,727 L677,727 L677,-1321 L0,-1321 '/>
+
+  <!-- draw points as circles -->
+  <!--0--><circle fill='blue' stroke='black' cx='511' cy='-219' r='10'/>
+  <!--1--><circle fill='blue' stroke='black' cx='93' cy='-434' r='5'/>
+  <!--2--><circle fill='blue' stroke='black' cx='93' cy='-520' r='5'/>
+  <!--3--><circle fill='blue' stroke='black' cx='585' cy='-262' r='5'/>
+  <!--4--><circle fill='blue' stroke='black' cx='585' cy='-170' r='5'/>
+  <!--5--><circle fill='blue' stroke='black' cx='92' cy='74' r='5'/>
+  <!--6--><circle fill='blue' stroke='black' cx='93' cy='-6' r='5'/>
+
+  <!-- draw straight lines between points -->
+  <path fill='none' stroke='green' d='
+   M 511,-219
+
+  '/>
+  <path fill='none' stroke='green' d=' M 511,-219 L 93,-434
+  '/>
+  <path fill='none' stroke='green' d=' M 93,-434 L 93,-520
+  '/>
+  <path fill='none' stroke='green' d=' M 93,-520 L 585,-262
+  '/>
+  <path fill='none' stroke='green' d=' M 585,-262 L 585,-170
+  '/>
+  <path fill='none' stroke='green' d=' M 585,-170 L 92,74
+  '/>
+  <path fill='none' stroke='green' d=' M 92,74 L 93,-6
+  '/><!-- do outline -->
+
+<!--
+new contour starting. startpt index, endpt index:0,6
+number of points in this contour: 7
+moving to first pt 511,-219
+listing pts: [this pt index][isctrl] <next pt index><isctrl> [x,y] <nx,ny>
+ [0][0] <1><0> <<2>><<0>> [511,-219] <93,-434> <<93,-520>>
+ line to 93,-434
+ [1][0] <2><0> <<3>><<0>> [93,-434] <93,-520> <<585,-262>>
+ line to 93,-520
+ [2][0] <3><0> <<4>><<0>> [93,-520] <585,-262> <<585,-170>>
+ line to 585,-262
+ [3][0] <4><0> <<5>><<0>> [585,-262] <585,-170> <<92,74>>
+ line to 585,-170
+ [4][0] <5><0> <<6>><<0>> [585,-170] <92,74> <<93,-6>>
+ line to 92,74
+ [5][0] <6><0> <<0>><<0>> [92,74] <93,-6> <<511,-219>>
+ line to 93,-6
+ [6][0] <0><0> <<1>><<0>> [93,-6] <511,-219> <<93,-434>>
+ line to 511,-219
+ 
+-->
+
+
+  <!-- draw actual outline using lines and Bezier curves-->
+  <path fill='black' stroke='black' fill-opacity='0.45'  stroke-width='2'  d='
+ M 511,-219
+ L 93,-434
+ L 93,-520
+ L 585,-262
+ L 585,-170
+ L 92,74
+ L 93,-6
+ L 511,-219
+ Z
+
+  '/>
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='516' y='-224' stroke='none' fill='darkgreen'>
+  511,-219  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='98' y='-439' stroke='none' fill='darkgreen'>
+  93,-434  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='98' y='-525' stroke='none' fill='darkgreen'>
+  93,-520  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='590' y='-267' stroke='none' fill='darkgreen'>
+  585,-262  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='590' y='-175' stroke='none' fill='darkgreen'>
+  585,-170  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='97' y='69' stroke='none' fill='darkgreen'>
+  92,74  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='98' y='-11' stroke='none' fill='darkgreen'>
+  93,-6  </text>
+ </g>
+
+ </g>
+</svg>

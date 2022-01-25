@@ -1,0 +1,149 @@
+<!--
+Unicode requested: 96 (decimal: 96 hex: 0x60)
+Glyph index for unicode: 41
+Load Glyph into Face's glyph slot. error code: 0
+Glyph Name: grave
+Glyph Width: 194 Height: 275 Hor. Advance: 376 Vert. Advance: 2048
+Num points: 9
+Num contours: 1
+Contour endpoint index values: 8
+-->
+
+<svg width='2217px' height='1221px' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+
+ <!-- draw border -->
+ <rect fill='none' stroke='black' width='2216' height='1220'/>
+
+ <!-- make sure glyph is visible within svg window -->
+ <g fill-rule='nonzero'  transform='translate(100 1851)'>
+
+  <!-- draw axes --> 
+ <path stroke='blue' stroke-dasharray='5,5' d=' M-2217,0 L2217,0 M0,-1221 L0,1221 '/>
+
+  <!-- draw bearing + advance box --> 
+ <path stroke='blue' fill='none' stroke-dasharray='10,16' d=' M0,-1161 M0,887 L376,887 L376,-1161 L0,-1161 '/>
+
+  <!-- draw points as circles -->
+  <!--0--><circle fill='blue' stroke='black' cx='248' cy='-590' r='10'/>
+  <!--1--><circle fill='blue' stroke='black' cx='101' cy='-784' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='93' cy='-821' r='2'/>
+  <!--2--><circle fill='none' stroke='black' cx='90' cy='-801' r='5'/>
+  <!--3--><circle fill='none' stroke='black' cx='97' cy='-842' r='5'/>
+  <!--4--><circle fill='blue' stroke='black' cx='113' cy='-853' r='5'/>
+  <!-- halfway pt between 2 ctrl pts --><circle fill='blue' stroke='black' cx='155' cy='-856' r='2'/>
+  <!--5--><circle fill='none' stroke='black' cx='131' cy='-865' r='5'/>
+  <!--6--><circle fill='none' stroke='black' cx='179' cy='-847' r='5'/>
+  <!--7--><circle fill='blue' stroke='black' cx='192' cy='-821' r='5'/>
+  <!--8--><circle fill='blue' stroke='black' cx='284' cy='-608' r='5'/>
+
+  <!-- draw straight lines between points -->
+  <path fill='none' stroke='green' d='
+   M 248,-590
+
+  '/>
+  <path fill='none' stroke='green' d=' M 248,-590 L 101,-784
+  '/>
+  <path fill='none' stroke='green' d=' M 101,-784 L 90,-801
+  '/>
+  <path fill='none' stroke='green' d=' M 90,-801 L 97,-842
+  '/>
+  <path fill='none' stroke='green' d=' M 97,-842 L 113,-853
+  '/>
+  <path fill='none' stroke='green' d=' M 113,-853 L 131,-865
+  '/>
+  <path fill='none' stroke='green' d=' M 131,-865 L 179,-847
+  '/>
+  <path fill='none' stroke='green' d=' M 179,-847 L 192,-821
+  '/>
+  <path fill='none' stroke='green' d=' M 192,-821 L 284,-608
+  '/><!-- do outline -->
+
+<!--
+new contour starting. startpt index, endpt index:0,8
+number of points in this contour: 9
+moving to first pt 248,-590
+listing pts: [this pt index][isctrl] <next pt index><isctrl> [x,y] <nx,ny>
+ [0][0] <1><0> <<2>><<1>> [248,-590] <101,-784> <<90,-801>>
+ line to 101,-784
+ [1][0] <2><1> <<3>><<1>> [101,-784] <90,-801> <<97,-842>>
+ two ctl pts coming. adding point halfway between 2 and 3: reseting nnx and nny to halfway pt bezier to 93,-821 ctlx, ctly: 90,-801
+ [2][1] <3><1> <<4>><<0>> [90,-801] <97,-842> <<113,-853>>
+ two adjacent ctl pts. adding point halfway between 2 and 3: reseting x and y to  [93,-821]
+ bezier to 113,-853 ctlx, ctly: 97,-842
+ [3][1] <4><0> <<5>><<1>> [97,-842] <113,-853> <<131,-865>>
+ this is ctrl pt. skipping to 113,-853
+ [4][0] <5><1> <<6>><<1>> [113,-853] <131,-865> <<179,-847>>
+ two ctl pts coming. adding point halfway between 5 and 6: reseting nnx and nny to halfway pt bezier to 155,-856 ctlx, ctly: 131,-865
+ [5][1] <6><1> <<7>><<0>> [131,-865] <179,-847> <<192,-821>>
+ two adjacent ctl pts. adding point halfway between 5 and 6: reseting x and y to  [155,-856]
+ bezier to 192,-821 ctlx, ctly: 179,-847
+ [6][1] <7><0> <<8>><<0>> [179,-847] <192,-821> <<284,-608>>
+ this is ctrl pt. skipping to 192,-821
+ [7][0] <8><0> <<0>><<0>> [192,-821] <284,-608> <<248,-590>>
+ line to 284,-608
+ [8][0] <0><0> <<1>><<0>> [284,-608] <248,-590> <<101,-784>>
+ line to 248,-590
+ 
+-->
+
+
+  <!-- draw actual outline using lines and Bezier curves-->
+  <path fill='black' stroke='black' fill-opacity='0.45'  stroke-width='2'  d='
+ M 248,-590
+ L 101,-784
+ Q 90,-801 93,-821
+ Q 97,-842 113,-853
+ Q 131,-865 155,-856
+ Q 179,-847 192,-821
+ L 284,-608
+ L 248,-590
+ Z
+
+  '/>
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='253' y='-595' stroke='none' fill='darkgreen'>
+  248,-590  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='106' y='-789' stroke='none' fill='darkgreen'>
+  101,-784  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='95' y='-806' stroke='none' fill='darkgreen'>
+  90,-801  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='102' y='-847' stroke='none' fill='darkgreen'>
+  97,-842  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='118' y='-858' stroke='none' fill='darkgreen'>
+  113,-853  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='136' y='-870' stroke='none' fill='darkgreen'>
+  131,-865  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='184' y='-852' stroke='none' fill='darkgreen'>
+  179,-847  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='197' y='-826' stroke='none' fill='darkgreen'>
+  192,-821  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='289' y='-613' stroke='none' fill='darkgreen'>
+  284,-608  </text>
+ </g>
+
+ </g>
+</svg>

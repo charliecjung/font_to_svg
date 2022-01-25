@@ -1,0 +1,180 @@
+<!--
+Unicode requested: 215 (decimal: 215 hex: 0xd7)
+Glyph index for unicode: 50
+Load Glyph into Face's glyph slot. error code: 0
+Glyph Name: multiply
+Glyph Width: 348 Height: 347 Hor. Advance: 532 Vert. Advance: 2048
+Num points: 12
+Num contours: 1
+Contour endpoint index values: 11
+-->
+
+<svg width='2217px' height='1221px' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+
+ <!-- draw border -->
+ <rect fill='none' stroke='black' width='2216' height='1220'/>
+
+ <!-- make sure glyph is visible within svg window -->
+ <g fill-rule='nonzero'  transform='translate(100 1370)'>
+
+  <!-- draw axes --> 
+ <path stroke='blue' stroke-dasharray='5,5' d=' M-2217,0 L2217,0 M0,-1221 L0,1221 '/>
+
+  <!-- draw bearing + advance box --> 
+ <path stroke='blue' fill='none' stroke-dasharray='10,16' d=' M0,-1197 M0,851 L532,851 L532,-1197 L0,-1197 '/>
+
+  <!-- draw points as circles -->
+  <!--0--><circle fill='blue' stroke='black' cx='92' cy='-116' r='10'/>
+  <!--1--><circle fill='blue' stroke='black' cx='223' cy='-246' r='5'/>
+  <!--2--><circle fill='blue' stroke='black' cx='92' cy='-376' r='5'/>
+  <!--3--><circle fill='blue' stroke='black' cx='135' cy='-420' r='5'/>
+  <!--4--><circle fill='blue' stroke='black' cx='266' cy='-290' r='5'/>
+  <!--5--><circle fill='blue' stroke='black' cx='396' cy='-420' r='5'/>
+  <!--6--><circle fill='blue' stroke='black' cx='440' cy='-376' r='5'/>
+  <!--7--><circle fill='blue' stroke='black' cx='310' cy='-246' r='5'/>
+  <!--8--><circle fill='blue' stroke='black' cx='440' cy='-116' r='5'/>
+  <!--9--><circle fill='blue' stroke='black' cx='396' cy='-73' r='5'/>
+  <!--10--><circle fill='blue' stroke='black' cx='266' cy='-203' r='5'/>
+  <!--11--><circle fill='blue' stroke='black' cx='135' cy='-73' r='5'/>
+
+  <!-- draw straight lines between points -->
+  <path fill='none' stroke='green' d='
+   M 92,-116
+
+  '/>
+  <path fill='none' stroke='green' d=' M 92,-116 L 223,-246
+  '/>
+  <path fill='none' stroke='green' d=' M 223,-246 L 92,-376
+  '/>
+  <path fill='none' stroke='green' d=' M 92,-376 L 135,-420
+  '/>
+  <path fill='none' stroke='green' d=' M 135,-420 L 266,-290
+  '/>
+  <path fill='none' stroke='green' d=' M 266,-290 L 396,-420
+  '/>
+  <path fill='none' stroke='green' d=' M 396,-420 L 440,-376
+  '/>
+  <path fill='none' stroke='green' d=' M 440,-376 L 310,-246
+  '/>
+  <path fill='none' stroke='green' d=' M 310,-246 L 440,-116
+  '/>
+  <path fill='none' stroke='green' d=' M 440,-116 L 396,-73
+  '/>
+  <path fill='none' stroke='green' d=' M 396,-73 L 266,-203
+  '/>
+  <path fill='none' stroke='green' d=' M 266,-203 L 135,-73
+  '/><!-- do outline -->
+
+<!--
+new contour starting. startpt index, endpt index:0,11
+number of points in this contour: 12
+moving to first pt 92,-116
+listing pts: [this pt index][isctrl] <next pt index><isctrl> [x,y] <nx,ny>
+ [0][0] <1><0> <<2>><<0>> [92,-116] <223,-246> <<92,-376>>
+ line to 223,-246
+ [1][0] <2><0> <<3>><<0>> [223,-246] <92,-376> <<135,-420>>
+ line to 92,-376
+ [2][0] <3><0> <<4>><<0>> [92,-376] <135,-420> <<266,-290>>
+ line to 135,-420
+ [3][0] <4><0> <<5>><<0>> [135,-420] <266,-290> <<396,-420>>
+ line to 266,-290
+ [4][0] <5><0> <<6>><<0>> [266,-290] <396,-420> <<440,-376>>
+ line to 396,-420
+ [5][0] <6><0> <<7>><<0>> [396,-420] <440,-376> <<310,-246>>
+ line to 440,-376
+ [6][0] <7><0> <<8>><<0>> [440,-376] <310,-246> <<440,-116>>
+ line to 310,-246
+ [7][0] <8><0> <<9>><<0>> [310,-246] <440,-116> <<396,-73>>
+ line to 440,-116
+ [8][0] <9><0> <<10>><<0>> [440,-116] <396,-73> <<266,-203>>
+ line to 396,-73
+ [9][0] <10><0> <<11>><<0>> [396,-73] <266,-203> <<135,-73>>
+ line to 266,-203
+ [10][0] <11><0> <<0>><<0>> [266,-203] <135,-73> <<92,-116>>
+ line to 135,-73
+ [11][0] <0><0> <<1>><<0>> [135,-73] <92,-116> <<223,-246>>
+ line to 92,-116
+ 
+-->
+
+
+  <!-- draw actual outline using lines and Bezier curves-->
+  <path fill='black' stroke='black' fill-opacity='0.45'  stroke-width='2'  d='
+ M 92,-116
+ L 223,-246
+ L 92,-376
+ L 135,-420
+ L 266,-290
+ L 396,-420
+ L 440,-376
+ L 310,-246
+ L 440,-116
+ L 396,-73
+ L 266,-203
+ L 135,-73
+ L 92,-116
+ Z
+
+  '/>
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='97' y='-121' stroke='none' fill='darkgreen'>
+  92,-116  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='228' y='-251' stroke='none' fill='darkgreen'>
+  223,-246  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='97' y='-381' stroke='none' fill='darkgreen'>
+  92,-376  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='140' y='-425' stroke='none' fill='darkgreen'>
+  135,-420  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='271' y='-295' stroke='none' fill='darkgreen'>
+  266,-290  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='401' y='-425' stroke='none' fill='darkgreen'>
+  396,-420  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='445' y='-381' stroke='none' fill='darkgreen'>
+  440,-376  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='315' y='-251' stroke='none' fill='darkgreen'>
+  310,-246  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='445' y='-121' stroke='none' fill='darkgreen'>
+  440,-116  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='401' y='-78' stroke='none' fill='darkgreen'>
+  396,-73  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='271' y='-208' stroke='none' fill='darkgreen'>
+  266,-203  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='140' y='-78' stroke='none' fill='darkgreen'>
+  135,-73  </text>
+ </g>
+
+ </g>
+</svg>

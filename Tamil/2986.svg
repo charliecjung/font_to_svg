@@ -1,0 +1,136 @@
+<!--
+Unicode requested: 2986 (decimal: 2986 hex: 0xbaa)
+Glyph index for unicode: 80
+Load Glyph into Face's glyph slot. error code: 0
+Glyph Name: pataml
+Glyph Width: 578 Height: 492 Hor. Advance: 762 Vert. Advance: 2048
+Num points: 8
+Num contours: 1
+Contour endpoint index values: 7
+-->
+
+<svg width='2217px' height='1221px' xmlns='http://www.w3.org/2000/svg' version='1.1'>
+
+ <!-- draw border -->
+ <rect fill='none' stroke='black' width='2216' height='1220'/>
+
+ <!-- make sure glyph is visible within svg window -->
+ <g fill-rule='nonzero'  transform='translate(100 1370)'>
+
+  <!-- draw axes --> 
+ <path stroke='blue' stroke-dasharray='5,5' d=' M-2217,0 L2217,0 M0,-1221 L0,1221 '/>
+
+  <!-- draw bearing + advance box --> 
+ <path stroke='blue' fill='none' stroke-dasharray='10,16' d=' M0,-1270 M0,778 L762,778 L762,-1270 L0,-1270 '/>
+
+  <!-- draw points as circles -->
+  <!--0--><circle fill='blue' stroke='black' cx='608' cy='-49' r='10'/>
+  <!--1--><circle fill='blue' stroke='black' cx='608' cy='-492' r='5'/>
+  <!--2--><circle fill='blue' stroke='black' cx='670' cy='-492' r='5'/>
+  <!--3--><circle fill='blue' stroke='black' cx='670' cy='0' r='5'/>
+  <!--4--><circle fill='blue' stroke='black' cx='92' cy='0' r='5'/>
+  <!--5--><circle fill='blue' stroke='black' cx='92' cy='-492' r='5'/>
+  <!--6--><circle fill='blue' stroke='black' cx='154' cy='-492' r='5'/>
+  <!--7--><circle fill='blue' stroke='black' cx='154' cy='-49' r='5'/>
+
+  <!-- draw straight lines between points -->
+  <path fill='none' stroke='green' d='
+   M 608,-49
+
+  '/>
+  <path fill='none' stroke='green' d=' M 608,-49 L 608,-492
+  '/>
+  <path fill='none' stroke='green' d=' M 608,-492 L 670,-492
+  '/>
+  <path fill='none' stroke='green' d=' M 670,-492 L 670,0
+  '/>
+  <path fill='none' stroke='green' d=' M 670,0 L 92,0
+  '/>
+  <path fill='none' stroke='green' d=' M 92,0 L 92,-492
+  '/>
+  <path fill='none' stroke='green' d=' M 92,-492 L 154,-492
+  '/>
+  <path fill='none' stroke='green' d=' M 154,-492 L 154,-49
+  '/><!-- do outline -->
+
+<!--
+new contour starting. startpt index, endpt index:0,7
+number of points in this contour: 8
+moving to first pt 608,-49
+listing pts: [this pt index][isctrl] <next pt index><isctrl> [x,y] <nx,ny>
+ [0][0] <1><0> <<2>><<0>> [608,-49] <608,-492> <<670,-492>>
+ line to 608,-492
+ [1][0] <2><0> <<3>><<0>> [608,-492] <670,-492> <<670,0>>
+ line to 670,-492
+ [2][0] <3><0> <<4>><<0>> [670,-492] <670,0> <<92,0>>
+ line to 670,0
+ [3][0] <4><0> <<5>><<0>> [670,0] <92,0> <<92,-492>>
+ line to 92,0
+ [4][0] <5><0> <<6>><<0>> [92,0] <92,-492> <<154,-492>>
+ line to 92,-492
+ [5][0] <6><0> <<7>><<0>> [92,-492] <154,-492> <<154,-49>>
+ line to 154,-492
+ [6][0] <7><0> <<0>><<0>> [154,-492] <154,-49> <<608,-49>>
+ line to 154,-49
+ [7][0] <0><0> <<1>><<0>> [154,-49] <608,-49> <<608,-492>>
+ line to 608,-49
+ 
+-->
+
+
+  <!-- draw actual outline using lines and Bezier curves-->
+  <path fill='black' stroke='black' fill-opacity='0.45'  stroke-width='2'  d='
+ M 608,-49
+ L 608,-492
+ L 670,-492
+ L 670,0
+ L 92,0
+ L 92,-492
+ L 154,-492
+ L 154,-49
+ L 608,-49
+ Z
+
+  '/>
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='613' y='-54' stroke='none' fill='darkgreen'>
+  608,-49  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='613' y='-497' stroke='none' fill='darkgreen'>
+  608,-492  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='675' y='-497' stroke='none' fill='darkgreen'>
+  670,-492  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='675' y='-5' stroke='none' fill='darkgreen'>
+  670,0  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='97' y='-5' stroke='none' fill='darkgreen'>
+  92,0  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='97' y='-497' stroke='none' fill='darkgreen'>
+  92,-492  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='159' y='-497' stroke='none' fill='darkgreen'>
+  154,-492  </text>
+ </g>
+
+ <g font-family='SVGFreeSansASCII,sans-serif' font-size='10'>
+  <text id='revision' x='159' y='-54' stroke='none' fill='darkgreen'>
+  154,-49  </text>
+ </g>
+
+ </g>
+</svg>
